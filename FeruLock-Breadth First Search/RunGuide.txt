@@ -1,0 +1,2 @@
+g++ 16.cpp
+cat tests.txt | ./a.out
